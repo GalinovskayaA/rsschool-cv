@@ -1,15 +1,15 @@
-##*Galinovskaya Alexandra*
+## *Galinovskaya Alexandra*
 Mobile: +375(29)3022777
 
-###*Work experience:*
+### *Work experience:*
 * Film Company "Central Partnership", film crew administrator, work experience 1 year
 * Bolshoi Theatre of Belarus, economist, work experience 8 year
 
-###*Skills*
+### *Skills*
 HTML + CSS basic
 
-###*Education*
+### *Education*
 Higher economic education
 
-###*Common European Framework of Reference*
+### *Common European Framework of Reference*
 A1 — Beginner
